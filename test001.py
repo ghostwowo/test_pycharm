@@ -6,3 +6,4 @@ Copyright (c) 2022/10/9, 海牛学院版权所有.
 @author: 野牛
 """
 print("hello tom")
+print("hello lina")
